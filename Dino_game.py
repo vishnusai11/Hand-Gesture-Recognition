@@ -58,7 +58,3 @@ while cam.isOpened():
 
 cam.release()
 cv.destroyAllWindows()
-
-#Mention in readme.md
-#https://pub.aimind.so/real-time-hand-gesture-recognition-using-opencv-a-step-by-step-guide-2820618caa08
-#https://levelup.gitconnected.com/playing-chromes-dinosaur-game-using-opencv-19b3cf9c3636
